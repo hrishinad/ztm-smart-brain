@@ -1,0 +1,12 @@
+.rank-wrapper {
+    flex-direction: column;
+}
+
+.rank-wrapper .message {
+    font-size: 1.5em;
+    color: white;
+}
+.rank-wrapper .show-rank {
+    font-size: 3em;
+    color: white;
+}
